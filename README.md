@@ -1,4 +1,4 @@
-Design, build and deploy systems for products, and individuals.
+Hi, I am a Product UX Designer and aspiring Infrastructure Engineer. I design, build and deploy systems for products, and individuals.
 
 <!--
 **dsgnrfhmns/dsgnrfhmns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
